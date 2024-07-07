@@ -11,5 +11,5 @@ I am a data scientist with a passion for uncovering insights from data and build
 - **Tools**: Git, Docker, Jupyter Notebooks
 
 ### Contact
-- **Email**: suthanvasanthan@example.com
+- **Email**: suthan_sam@hotmail.co.uk
 - **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/suthanvasanthan/)](https://www.linkedin.com/in/suthan-vasanthan-785528bb)
